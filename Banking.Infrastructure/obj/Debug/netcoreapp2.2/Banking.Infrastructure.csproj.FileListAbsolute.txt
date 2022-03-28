@@ -1,0 +1,14 @@
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Banking.Infrastructure.deps.json
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Banking.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Banking.Infrastructure.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.csprojAssemblyReference.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.csproj.CopyComplete
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Infrastructure\obj\Debug\netcoreapp2.2\Banking.Infrastructure.pdb

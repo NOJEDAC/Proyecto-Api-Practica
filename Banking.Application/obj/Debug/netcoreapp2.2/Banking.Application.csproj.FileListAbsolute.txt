@@ -1,0 +1,16 @@
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Application.deps.json
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Application.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Application.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Domain.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Banking.Infrastructure.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.csprojAssemblyReference.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.csproj.CopyComplete
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.Application\obj\Debug\netcoreapp2.2\Banking.Application.pdb

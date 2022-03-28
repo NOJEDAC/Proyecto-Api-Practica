@@ -1,0 +1,8 @@
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Common\obj\Debug\netcoreapp2.2\Common.pdb

@@ -1,0 +1,5 @@
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.API\obj\Debug\netcoreapp3.0\Banking.API.csprojAssemblyReference.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.API\obj\Debug\netcoreapp3.0\Banking.API.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.API\obj\Debug\netcoreapp3.0\Banking.API.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.API\obj\Debug\netcoreapp3.0\Banking.API.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\BankingMonolithic-ADS-NetCore2.2\Banking.API\obj\Debug\netcoreapp3.0\Banking.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,11 @@
+﻿---
+applications:
+- name: banking-api-net-core-ads
+  memory: 512M
+  disk_quota: 2GB
+  instances: 1
+  buildpacks:
+  - dotnet_core_buildpack
+  stack: cflinuxfs3
+  env:
+    ASPNETCORE_ENVIRONMENT: development
