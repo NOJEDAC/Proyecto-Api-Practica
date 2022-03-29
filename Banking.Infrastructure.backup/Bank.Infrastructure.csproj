@@ -1,0 +1,80 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Migrations\MySQL\10_CreateGroupRoleTable.sql" />
+    <None Remove="Migrations\MySQL\11_CreateUserGroupTable.sql" />
+    <None Remove="Migrations\MySQL\12_InsertCustomers.sql" />
+    <None Remove="Migrations\MySQL\13_InsertAccounts.sql" />
+    <None Remove="Migrations\MySQL\14_InsertGroups.sql" />
+    <None Remove="Migrations\MySQL\15_InsertRoles.sql" />
+    <None Remove="Migrations\MySQL\16_InsertGroupRoles.sql" />
+    <None Remove="Migrations\MySQL\17_InsertPermissions.sql" />
+    <None Remove="Migrations\MySQL\18_InsertRolePermissions.sql" />
+    <None Remove="Migrations\MySQL\19_InsertUsers.sql" />
+    <None Remove="Migrations\MySQL\1_CreateCustomerTable.sql" />
+    <None Remove="Migrations\MySQL\20_InsertUserGroups.sql" />
+    <None Remove="Migrations\MySQL\21_InsertUserRoles.sql" />
+    <None Remove="Migrations\MySQL\22_InsertCustomerUsers.sql" />
+    <None Remove="Migrations\MySQL\2_CreateAccountTable.sql" />
+    <None Remove="Migrations\MySQL\3_CreateUserTable.sql" />
+    <None Remove="Migrations\MySQL\4_CreateCustomerUserTable.sql" />
+    <None Remove="Migrations\MySQL\5_CreateRoleTable.sql" />
+    <None Remove="Migrations\MySQL\6_CreatePermissionTable.sql" />
+    <None Remove="Migrations\MySQL\7_CreateGroupTable.sql" />
+    <None Remove="Migrations\MySQL\8_CreateRolePermissionTable.sql" />
+    <None Remove="Migrations\MySQL\9_CreateUserRoleTable.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\MySQL\22_InsertCustomerUsers.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\21_InsertUserRoles.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\20_InsertUserGroups.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\19_InsertUsers.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\18_InsertRolePermissions.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\17_InsertPermissions.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\16_InsertGroupRoles.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\15_InsertRoles.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\14_InsertGroups.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\13_InsertAccounts.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\12_InsertCustomers.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\11_CreateUserGroupTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\1_CreateCustomerTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\2_CreateAccountTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\4_CreateCustomerUserTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\3_CreateUserTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\5_CreateRoleTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\6_CreatePermissionTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\7_CreateGroupTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\8_CreateRolePermissionTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\9_CreateUserRoleTable.sql" />
+    <EmbeddedResource Include="Migrations\MySQL\10_CreateGroupRoleTable.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Seedwork\" />
+    <Folder Include="Transactions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="FluentMigrator" Version="3.1.3" />
+    <PackageReference Include="FluentMigrator.Runner" Version="3.1.3" />
+    <PackageReference Include="FluentMigrator.Runner.MySql" Version="3.1.3" />
+    <PackageReference Include="FluentNHibernate" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="2.1.3" />
+    <PackageReference Include="MySql.Data" Version="8.0.13" />
+    <PackageReference Include="NHibernate" Version="5.1.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banking.Domain\Bank.Domain.csproj" />
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>

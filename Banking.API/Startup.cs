@@ -29,7 +29,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Common;
 using System;
-using System.Text;
+using System.Text; 
 
 namespace Banking.API
 {
@@ -46,7 +46,7 @@ namespace Banking.API
         {
             try
             {
-                services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+                services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
                 services.AddAutoMapper();
                 services.AddSingleton(new SessionFactory(Environment.GetEnvironmentVariable("MYSQL_BANKING_CORE")));
                 var serviceProvider = services.BuildServiceProvider();

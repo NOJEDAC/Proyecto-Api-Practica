@@ -4,8 +4,7 @@ using Dapper;
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using MoreLinq;
+using System.Linq; 
 
 namespace Banking.Application.Auth.Queries
 {

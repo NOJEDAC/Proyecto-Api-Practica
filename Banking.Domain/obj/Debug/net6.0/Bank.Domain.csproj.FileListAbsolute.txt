@@ -1,0 +1,15 @@
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\bin\Debug\net6.0\Bank.Domain.deps.json
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\bin\Debug\net6.0\Bank.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\bin\Debug\net6.0\Bank.Domain.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\bin\Debug\net6.0\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\bin\Debug\net6.0\Common.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.csproj.AssemblyReference.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.csproj.CopyComplete
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\refint\Bank.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\Bank.Domain.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Domain\obj\Debug\net6.0\ref\Bank.Domain.dll

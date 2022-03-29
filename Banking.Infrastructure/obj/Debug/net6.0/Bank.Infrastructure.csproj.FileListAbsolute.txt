@@ -1,0 +1,17 @@
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Bank.Infrastructure.deps.json
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Bank.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Bank.Infrastructure.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Bank.Domain.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Common.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Bank.Domain.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\bin\Debug\net6.0\Common.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.AssemblyInfo.cs
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.csproj.CopyComplete
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\refint\Bank.Infrastructure.dll
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\Bank.Infrastructure.pdb
+C:\Users\NOJEDA\Documents\GitHub\practica\Proyecto-Api-Practica\Banking.Infrastructure\obj\Debug\net6.0\ref\Bank.Infrastructure.dll
